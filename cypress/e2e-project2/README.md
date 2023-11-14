@@ -1,16 +1,16 @@
 # CypressProject2
 
-This project aims to test and automate the login functionality of the example application located at:
+This project aims to test and automate the login functionality of the example application located at the following link:
 https://techglobal-training.com/frontend/project-2
 
-Contents: 
+The application contains a simple login form with username, password and login button. It also contains a 'Forgot Password?' link to open up a modal for resetting the password.
 
 The project contains the following files:
 
 1) loginFunction.cy.js - Main Cypress test file containing all the test cases
 2) loginPages.js - Page object model file containing locator functions
 
-The application contains a simple login form with username, password and login button. It also contains a 'Forgot Password?' link to open up a modal for resetting the password.
+
 
 The project aims to test the following:
 1. Validate the login form elements
